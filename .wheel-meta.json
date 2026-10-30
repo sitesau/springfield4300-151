@@ -1,0 +1,22 @@
+{
+  "wheel_id": 555,
+  "structure": "umbrella",
+  "slug": "springfield4300-151",
+  "project": "local-services-springfield-c0c487a57a258d7c3b126fdf256b2a9f4891",
+  "parent_t1_ref": "springfield4300-009",
+  "node_role": "buffer",
+  "money_target": "springfield4300.com.au",
+  "primary_kw": "local services springfield",
+  "intended_url": "https://aumedia.neocities.org/local-services-springfield-c0c487a57a258d7c3b126fdf256b2a9f4891/",
+  "tier": "T2",
+  "writeback_nonce": "7b15271f831f7f39",
+  "links": [
+    {
+      "target_url": "https://local-services-springfield-springfield4300-009-1ef28c.gitlab.io/",
+      "anchor": "more on local services springfield",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
